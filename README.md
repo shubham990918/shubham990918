@@ -50,7 +50,7 @@ Building scalable, secure, and automated systems.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,bash,terraform,git,github,jenkins,ansible,prometheus,grafana,py,vim"/>
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,bash,terraform,git,github,githubactions,jenkins,ansible,prometheus,grafana,py,vim"/>
 
 </p>
 
