@@ -4,31 +4,6 @@
   />
 </p>
 
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=250&section=header&text=Shubham%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Middleware%20Engineer%20|%20Linux%20|%20AWS%20|%20DevOps&descAlignY=55&descSize=20"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=220&section=header&text=Shubham%20Shinde&fontSize=50&fontColor=ffffff"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f9b0f&height=250&section=header&text=Shubham%20Shinde&fontColor=00ff00&fontSize=50"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000428,100:004e92&height=220&section=header&text=Shubham%20Shinde&fontSize=55&fontColor=00FFFF&animation=blinking"
-  />
-</p>
-
 <h3 align="center">
   Middleware Engineer • Linux • AWS • WebLogic • DevOps
 </h3>
