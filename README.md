@@ -1,15 +1,11 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0b1026,50:111827,75:00ff99,100:00e5ff&text=Shubham%20Shinde&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Middleware%20Engineer%20%7C%20Linux%20%7C%20AWS%20%7C%20DevOps&descAlignY=58&descSize=22"
+    src="https://capsule-render.vercel.app/api?type=venom&height=600&color=0:000000,35:1a0000,70:8B0000,100:ff003c&text=Shubham%20Shinde&fontColor=ffffff&fontSize=100&animation=blinking&desc=Middleware-Engineer%20%7C%20Linux%20%7C%20AWS%20%7C%20DevOps%20%7C%20IAM%20%7C%20PAM&descAlignY=60&descSize=20"
   />
 </p>
 
-<h3 align="center">
-  Middleware Engineer • Linux • AWS • WebLogic • DevOps
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Middleware+Engineer;Linux+Administrator;AWS+DevOps+Learner;WebLogic+Administrator;Cloud+%26+Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF003C&center=true&vCenter=true&width=900&lines=Middleware+Engineer;Linux+Administrator;AWS+DevOps+Learner;WebLogic+Administrator;Cloud+%26+Automation+Enthusiast" />
 </p>
 
 ## About Me
