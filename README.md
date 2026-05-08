@@ -1,31 +1,52 @@
-# shubhamshinde
-Hi 👋 I'm Shubham Shinde
+<h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
 
-Middleware Engineer | AWS | Linux | WebLogic
-
-Passionate about:
-- Linux Administration
-- AWS DevOps
-- Oracle WebLogic
-- Automation
+<h3 align="center">
+Middleware Engineer | Linux | AWS | WebLogic | DevOps Learner
+</h3>
 
 ---
 
-## 🚀 Skills
+## 🚀 About Me
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+- 🔭 Working on Middleware & WebLogic Administration
+- 🌱 Learning AWS DevOps and Automation
+- 🐧 Linux Enthusiast
+- ☁️ Interested in Cloud and Infrastructure
+- 🎯 Goal: Become an AWS DevOps Engineer
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,aws,bash,java,git,github,docker" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: your-linkedin
-- YouTube: your-channel
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: Add-your-link
+- YouTube: Add-your-channel
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy working with Linux servers and troubleshooting enterprise systems.
+
