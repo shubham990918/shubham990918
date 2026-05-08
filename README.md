@@ -1,6 +1,13 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Shubham%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Middleware%20Engineer%20|%20Linux%20|%20AWS%20|%20DevOps&descAlignY=55&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0b1026,50:111827,75:00ff99,100:00e5ff&text=Shubham%20Shinde&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Middleware%20Engineer%20%7C%20Linux%20%7C%20AWS%20%7C%20DevOps&descAlignY=58&descSize=22"
+  />
+</p>
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=250&section=header&text=Shubham%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Middleware%20Engineer%20|%20Linux%20|%20AWS%20|%20DevOps&descAlignY=55&descSize=20"
   />
 </p>
 
