@@ -79,14 +79,6 @@ Building scalable, secure, and automated systems.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham990918&show_icons=true&theme=transparent&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=8B0000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham990918&layout=compact&theme=transparent&title_color=ff003c&text_color=ffffff&border_color=8B0000"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shubham990918&theme=highcontrast&background=000000&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&border=8B0000"/>
 
 </p>
