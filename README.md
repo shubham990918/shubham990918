@@ -1,13 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Middleware+Engineer;Linux+Administrator;AWS+DevOps+Learner)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
+<h1 align="center">
+  Hi 👋 I'm Shubham Shinde
+</h1>
 
 <h3 align="center">
-Middleware Engineer | Linux | AWS | WebLogic | DevOps Learner
+  Middleware Engineer • Linux • AWS • WebLogic • DevOps
 </h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Middleware+Engineer;Linux+Administrator;AWS+DevOps+Learner;WebLogic+Administrator;Cloud+%26+Automation+Enthusiast" />
+</p>
 
 ## 🚀 About Me
 
