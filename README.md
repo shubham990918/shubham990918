@@ -16,9 +16,9 @@
 
 -  Working on Middleware & WebLogic Administration
 -  Learning AWS DevOps and Automation
--  Linux Enthusiast
+-  Linux Administrator
 -  Interested in Cloud and Infrastructure
--  Goal: Become an DevOps Engineer
+-  Goal: Become a DevOps Engineer
 
 ---
 
