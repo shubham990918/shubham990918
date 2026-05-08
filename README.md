@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Middleware+Engineer;Linux+Administrator;AWS+DevOps+Learner;WebLogic+Administrator;Cloud+%26+Automation+Enthusiast" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Working on Middleware & WebLogic Administration
 - 🌱 Learning AWS DevOps and Automation
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="left">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/shubham990918
 - LinkedIn: Add-your-link
@@ -52,7 +52,7 @@
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I enjoy working with Linux servers and troubleshooting enterprise systems.
 
