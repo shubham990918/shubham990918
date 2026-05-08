@@ -12,7 +12,7 @@
 
 ---
 
-# 💀 ABOUT_ME
+# ABOUT_ME
 
 ```bash
 ┌──(shubham㉿middleware)-[~/profile]
@@ -46,7 +46,7 @@ Building scalable, secure, and automated systems.
 
 ---
 
-# ⚡ TECH_STACK
+# TECH_STACK
 
 <p align="center">
 
@@ -56,7 +56,7 @@ Building scalable, secure, and automated systems.
 
 ---
 
-# 🧠 CORE_SKILLS
+# CORE_SKILLS
 
 <p align="center">
 
@@ -75,7 +75,7 @@ Building scalable, secure, and automated systems.
 
 ---
 
-# 📊 GITHUB_ANALYTICS
+# GITHUB_ANALYTICS
 
 <p align="center">
 
@@ -93,7 +93,7 @@ Building scalable, secure, and automated systems.
 
 ---
 
-# 🚀 CURRENT_OPERATIONS
+# CURRENT_OPERATIONS
 
 ```yaml
 infrastructure:
@@ -117,7 +117,7 @@ status:
 
 ---
 
-# 🛠️ DEVOPS_WORKFLOW
+# DEVOPS_WORKFLOW
 
 ```text
 Code → GitHub → Jenkins → Docker → Kubernetes → Monitoring → Production
@@ -125,7 +125,7 @@ Code → GitHub → Jenkins → Docker → Kubernetes → Monitoring → Product
 
 ---
 
-# 🌐 CONNECT_WITH_ME
+# CONNECT_WITH_ME
 
 <p align="center">
 
@@ -145,7 +145,7 @@ Code → GitHub → Jenkins → Docker → Kubernetes → Monitoring → Product
 
 ---
 
-# 📈 CONTRIBUTION_GRAPH
+# CONTRIBUTION_GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham990918&bg_color=000000&color=ff003c&line=ff003c&point=ffffff&area=true&hide_border=true"/>
@@ -153,7 +153,7 @@ Code → GitHub → Jenkins → Docker → Kubernetes → Monitoring → Product
 
 ---
 
-# 🐍 CONTRIBUTION_SNAKE
+# CONTRIBUTION_SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -161,7 +161,7 @@ Code → GitHub → Jenkins → Docker → Kubernetes → Monitoring → Product
 
 ---
 
-# 🔥 PROFILE_VIEWS
+# PROFILE_VIEWS
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham990918&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge"/>
@@ -169,7 +169,7 @@ Code → GitHub → Jenkins → Docker → Kubernetes → Monitoring → Product
 
 ---
 
-# ⚔️ QUOTE
+# QUOTE
 
 ```bash
 "Automate everything. Secure everything. Monitor everything."
