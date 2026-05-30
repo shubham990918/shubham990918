@@ -75,16 +75,6 @@ Building scalable, secure, and automated systems.
 
 ---
 
-# GITHUB_ANALYTICS
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shubham990918&theme=highcontrast&background=000000&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&border=8B0000"/>
-
-</p>
-
----
-
 # CURRENT_OPERATIONS
 
 ```yaml
@@ -133,22 +123,6 @@ Code → GitHub → Jenkins → Docker → Kubernetes → Monitoring → Product
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
 </a>
 
-</p>
-
----
-
-# CONTRIBUTION_GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham990918&bg_color=000000&color=ff003c&line=ff003c&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
-# CONTRIBUTION_SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
